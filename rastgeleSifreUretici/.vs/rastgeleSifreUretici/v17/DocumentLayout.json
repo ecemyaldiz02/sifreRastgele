@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ecem2\\OneDrive\\Masa\u00FCst\u00FC\\C#\\rastgeleSifreUretici\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED9A0AE-CA90-4441-8947-7F40F7D7D9A9}|rastgeleSifreUretici\\rastgeleSifreUretici.csproj|c:\\users\\ecem2\\onedrive\\masa\u00FCst\u00FC\\c#\\rastgelesifreuretici\\rastgelesifreuretici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED9A0AE-CA90-4441-8947-7F40F7D7D9A9}|rastgeleSifreUretici\\rastgeleSifreUretici.csproj|solutionrelative:rastgelesifreuretici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ecem2\\OneDrive\\Masa\u00FCst\u00FC\\C#\\rastgeleSifreUretici\\rastgeleSifreUretici\\Program.cs",
+              "RelativeDocumentMoniker": "rastgeleSifreUretici\\Program.cs",
+              "ToolTip": "C:\\Users\\ecem2\\OneDrive\\Masa\u00FCst\u00FC\\C#\\rastgeleSifreUretici\\rastgeleSifreUretici\\Program.cs",
+              "RelativeToolTip": "rastgeleSifreUretici\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T20:38:39.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
